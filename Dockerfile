@@ -6,7 +6,7 @@ ARG BUILD_DATE
 ARG VCS_REF
 
 LABEL Name=minimum_django \
-      Version=0.1.5 \
+      Version=0.0.1 \
       org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.vcs-url="https://github.com/minimumbuilds/minimum_django.git" \
       org.label-schema.vcs-ref=$VCS_REF
